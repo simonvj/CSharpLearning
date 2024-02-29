@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyLibrary
 {
-    public abstract class Car
+    public abstract class Car // : ICar can implement an interface in the base class 
     {
         public Car(string make, string model, int year, Color color)
         {

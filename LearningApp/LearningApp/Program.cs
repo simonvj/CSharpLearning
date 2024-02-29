@@ -43,6 +43,10 @@ namespace LearningApp
 
             }
 
+            // boxing: every object except for type class e.g. int, double has an 8 byte header. int[] only has one header for the object but ArrayList has one for each entry
+
+            // Delegates
+             //KeyStrokeHandler
         }
 
         public static void PrintICarInfo(ICar car)
