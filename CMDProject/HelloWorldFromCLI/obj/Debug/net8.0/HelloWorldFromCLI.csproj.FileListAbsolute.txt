@@ -1,0 +1,15 @@
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\bin\Debug\net8.0\HelloWorldFromCLI.exe
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\bin\Debug\net8.0\HelloWorldFromCLI.deps.json
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\bin\Debug\net8.0\HelloWorldFromCLI.runtimeconfig.json
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\bin\Debug\net8.0\HelloWorldFromCLI.dll
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\bin\Debug\net8.0\HelloWorldFromCLI.pdb
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\obj\Debug\net8.0\HelloWorldFromCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\obj\Debug\net8.0\HelloWorldFromCLI.AssemblyInfoInputs.cache
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\obj\Debug\net8.0\HelloWorldFromCLI.AssemblyInfo.cs
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\obj\Debug\net8.0\HelloWorldFromCLI.csproj.CoreCompileInputs.cache
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\obj\Debug\net8.0\HelloWorldFromCLI.sourcelink.json
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\obj\Debug\net8.0\HelloWorldFromCLI.dll
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\obj\Debug\net8.0\refint\HelloWorldFromCLI.dll
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\obj\Debug\net8.0\HelloWorldFromCLI.pdb
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\obj\Debug\net8.0\HelloWorldFromCLI.genruntimeconfig.cache
+C:\Users\sivije\OneDrive\Netcompany\C#\C#Learning\CMDProject\HelloWorldFromCLI\obj\Debug\net8.0\ref\HelloWorldFromCLI.dll
