@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyLibrary
 {
-    internal interface ICar
+    public interface ICar
     {
         void Start();
         void Accelerator(double pressure);

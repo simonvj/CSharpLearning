@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40F7B076-8EF7-42B2-88CE-9445139E45AD}|Calculator\\Calculator.csproj|c:\\users\\simon\\onedrive\\netcompany\\c#\\c#learning\\learningapp\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40F7B076-8EF7-42B2-88CE-9445139E45AD}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{309F579D-8949-4714-9E45-FFB26EC50362}|LearningApp\\LearningApp.csproj|c:\\users\\simon\\onedrive\\netcompany\\c#\\c#learning\\learningapp\\learningapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{309F579D-8949-4714-9E45-FFB26EC50362}|LearningApp\\LearningApp.csproj|solutionrelative:learningapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{40F7B076-8EF7-42B2-88CE-9445139E45AD}|Calculator\\MyLibrary.csproj|c:\\users\\simon\\onedrive\\netcompany\\c#\\c#learning\\learningapp\\calculator\\m4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F7B076-8EF7-42B2-88CE-9445139E45AD}|Calculator\\MyLibrary.csproj|solutionrelative:calculator\\m4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40F7B076-8EF7-42B2-88CE-9445139E45AD}|Calculator\\MyLibrary.csproj|c:\\users\\simon\\onedrive\\netcompany\\c#\\c#learning\\learningapp\\calculator\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40F7B076-8EF7-42B2-88CE-9445139E45AD}|Calculator\\MyLibrary.csproj|solutionrelative:calculator\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7B076-8EF7-42B2-88CE-9445139E45AD}|Calculator\\MyLibrary.csproj|c:\\users\\simon\\onedrive\\netcompany\\c#\\c#learning\\learningapp\\calculator\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F7B076-8EF7-42B2-88CE-9445139E45AD}|Calculator\\MyLibrary.csproj|solutionrelative:calculator\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7B076-8EF7-42B2-88CE-9445139E45AD}|Calculator\\MyLibrary.csproj|c:\\users\\simon\\onedrive\\netcompany\\c#\\c#learning\\learningapp\\calculator\\m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F7B076-8EF7-42B2-88CE-9445139E45AD}|Calculator\\MyLibrary.csproj|solutionrelative:calculator\\m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F7B076-8EF7-42B2-88CE-9445139E45AD}|Calculator\\Calculator.csproj|c:\\users\\simon\\onedrive\\netcompany\\c#\\c#learning\\learningapp\\calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F7B076-8EF7-42B2-88CE-9445139E45AD}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "M4.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\Calculator\\M4.cs",
+              "RelativeDocumentMoniker": "Calculator\\M4.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\Calculator\\M4.cs",
+              "RelativeToolTip": "Calculator\\M4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:17:36.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\Calculator\\Car.cs",
+              "RelativeDocumentMoniker": "Calculator\\Car.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\Calculator\\Car.cs",
+              "RelativeToolTip": "Calculator\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:12:05.188Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "M3.cs",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\Calculator\\M3.cs",
+              "RelativeDocumentMoniker": "Calculator\\M3.cs",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\Calculator\\M3.cs",
+              "RelativeToolTip": "Calculator\\M3.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:33:07.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,33 +87,33 @@
               "RelativeDocumentMoniker": "Calculator\\ICar.cs",
               "ToolTip": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\Calculator\\ICar.cs",
               "RelativeToolTip": "Calculator\\ICar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T11:17:42.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\LearningApp\\Program.cs",
               "RelativeDocumentMoniker": "LearningApp\\Program.cs",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\LearningApp\\Program.cs",
-              "RelativeToolTip": "LearningApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBIAAAA5AAAA",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\LearningApp\\Program.cs*",
+              "RelativeToolTip": "LearningApp\\Program.cs*",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwDQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T08:43:43.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\Calculator\\Calculator.cs",
               "RelativeDocumentMoniker": "Calculator\\Calculator.cs",
-              "ToolTip": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\Calculator\\Calculator.cs*",
-              "RelativeToolTip": "Calculator\\Calculator.cs*",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAowCQAAAAYAAAA",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Netcompany\\C#\\C#Learning\\LearningApp\\Calculator\\Calculator.cs",
+              "RelativeToolTip": "Calculator\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T08:40:17.025Z",
               "EditorCaption": ""

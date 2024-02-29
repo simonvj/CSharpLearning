@@ -1,4 +1,5 @@
 ﻿using MyLibrary;
+using System.Drawing;
 
 // after C#9 top-level statements are used: the namespace, class and main method are implicit so in principle not neccesarry
 
@@ -21,6 +22,38 @@ namespace LearningApp
             Console.WriteLine(Calculator.UsageCount); // way to call static methods that is true across all instances of the class
 
             Console.WriteLine(Calculator.Multiply(4.22,7.22));
+
+            // initialize cars with color using shorthand syntax and interface
+            ICar[] cars = { new M3 { Color = Color.Silver }, new M3 { Color = Color.SeaShell}, };
+            foreach(ICar car in cars)
+            {
+                PrintICarInfo(car);
+                car.Start();
+                car.Accelerator(10);
+                
+            }
+
+            // using class inheritance - tight coupling
+            Car[] cars2 = { new M4 { Color = Color.Silver }, new M4 { Color = Color.SeaShell }, };
+            foreach (Car car in cars2)
+            {
+                PrintCarInfo(car);
+                car.Start();
+                car.Accelerator(10);
+
+            }
+
         }
+
+        public static void PrintICarInfo(ICar car)
+        {
+            Console.WriteLine("Here is a {0} {1} {2} {3}", car.Color.Name, car.Year, car.Make, car.Model);
+        }
+
+        public static void PrintCarInfo(Car car)
+        {
+            Console.WriteLine("Here is a {0} {1} {2} {3}", car.Color.Name, car.Year, car.Make, car.Model);
+        }
+
     }
 }
